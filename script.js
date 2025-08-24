@@ -19,27 +19,47 @@ const prototypes = [
         name: "Synapse",
         description: "Conexão interativa de ideias para colaboração criativa e descoberta coletiva",
         image: "img/synapse-capa.jpg",
-        link: "https://github.com/gearlabs/codelearn"
+        link: "https://dealegear.github.io/Synapse/"
     },
     {
         id: 4,
-        name: "HealthPal",
-        description: "Assistente virtual de saúde que lembra medicamentos, agenda consultas e monitora sinais vitais.",
-        image: "https://picsum.photos/seed/healthpal/400/300.jpg",
-        link: "https://github.com/gearlabs/healthpal"
+        name: "3GTO",
+        description: "Realidade virtual que conecta aventura e tecnologia",
+        image: "img/3gto-capa.jpg",
+        link: "https://dealegear.github.io/3GTO/"
     },
     {
         id: 5,
-        name: "Artify",
-        description: "Ferramenta de edição de imagens baseada em IA para artistas digitais, com filtros e efeitos criativos.",
-        image: "https://picsum.photos/seed/artify/400/300.jpg",
-        link: "https://github.com/gearlabs/artify"
+        name: "Baristas",
+        description: "Uma cafeteria aconchegante com cafés especiais e muitas novidades",
+        image: "img/baristas-capa.jpg",
+        link: "https://dealegear.github.io/Baristas/"
     },
     {
         id: 6,
-        name: "TaskMaster",
-        description: "Sistema de gerenciamento de projetos colaborativo com integração de time e automação de fluxos.",
-        image: "https://picsum.photos/seed/taskmaster/400/300.jpg",
+        name: "Dyris",
+        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
+        image: "img/dyris-capa.jpg",
+        link: "https://github.com/gearlabs/taskmaster"
+    },
+    {
+        id: 7,
+        name: "Dyris",
+        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
+        image: "img/dyris-capa.jpg",
+        link: "https://github.com/gearlabs/taskmaster"
+    },
+    {
+        id: 6,
+        name: "Dyris",
+        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
+        image: "img/dyris-capa.jpg",
+        link: "https://github.com/gearlabs/taskmaster"
+    },{
+        id: 6,
+        name: "Dyris",
+        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
+        image: "img/dyris-capa.jpg",
         link: "https://github.com/gearlabs/taskmaster"
     }
 ];
