@@ -44,23 +44,45 @@ const prototypes = [
     },
     {
         id: 7,
-        name: "Dyris",
-        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
-        image: "img/dyris-capa.jpg",
-        link: "https://github.com/gearlabs/taskmaster"
+        name: "Fabr",
+        description: "Uma plataforma de fabricação colaborativa, onde pessoas combinam habilidades para criar algo novo",
+        image: "img/fabr-capa.jpg",
+        link: "https://dealegear.github.io/Fabr/"
     },
     {
-        id: 6,
-        name: "Dyris",
-        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
-        image: "img/dyris-capa.jpg",
-        link: "https://github.com/gearlabs/taskmaster"
-    },{
-        id: 6,
-        name: "Dyris",
-        description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
-        image: "img/dyris-capa.jpg",
-        link: "https://github.com/gearlabs/taskmaster"
+        id: 8,
+        name: "UnderSea",
+        description: "Drones subaquáticos para explorar, monitorar e estudar os oceanos de forma autônoma",
+        image: "img/undersea-capa.jpg",
+        link: "https://dealegear.github.io/UnderSea/"
+    },
+    {
+        id: 9,
+        name: "Oxygen",
+        description: "Explorando novas formas de gerar energia eficiente e sustentável",
+        image: "img/oxygen-capa.jpg",
+        link: "https://dealegear.github.io/Oxygen/"
+    },
+    {
+        id: 10,
+        name: "Bosque das Frutíferas",
+        description: "Trazendo natureza, educação e bem-estar para as cidades",
+        image: "img/bosquedasfrutiferas-capa.jpg",
+        link: "https://dealegear.github.io/BosquedasFrutiferas/"
+    },
+    {
+        id: 11,
+        name: "Mecanico Fantasma",
+        description: "Monitoramento e analise de sons mecânicos de veículos, identificando divergências e prevenindo falhas",
+        image: "img/mecanicofantasma-capa.jpg",
+        link: "https://dealegear.github.io/MecanicoFantasma/"
+    },
+    {
+        id: 12,
+        name: "Viver é uma Arte",
+        description: "Criação e exposição de arte a áreas carentes, proporcionando bem-estar e renda",
+        image: "img/viverarte-capa.jpg",
+        link: "https://dealegear.github.io/ViverArte/"
     }
 ];
 
