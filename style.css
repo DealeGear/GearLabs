@@ -52,11 +52,20 @@ body {
 }
 
 .nav-logo a {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--primary-color);
+    font-size: 1.5rem; /* Ajuste o tamanho da fonte principal conforme necessário */
+    font-weight: bold;
+    color: #333; /* Cor do texto GearLabs */
     text-decoration: none;
-    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem; /* Espaçamento entre as duas partes do texto */
+}
+
+.nav-logo .byline {
+    font-size: 0.8rem; /* Tamanho da fonte para "by DealeGear" */
+    font-weight: normal;
+    color: #666; /* Cor do texto "by DealeGear" */
+    align-self: flex-end; /* Alinha o texto na parte de baixo */
 }
 
 .nav-logo a:hover {

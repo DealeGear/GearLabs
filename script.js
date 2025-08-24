@@ -2,16 +2,16 @@
 const prototypes = [
     {
         id: 1,
-        name: "EcoTracker",
-        description: "Aplicativo para monitoramento de pegada de carbono pessoal, ajudando usuários a fazer escolhas mais sustentáveis no dia a dia.",
-        image: "https://picsum.photos/seed/ecotracker/400/300.jpg",
-        link: "https://github.com/gearlabs/ecotracker"
+        name: "MyHeart",
+        description: "Simulador cardiácico, com visualizações gráficas e ajustes personalizados.",
+        image: "img/myheart-capa.jpg",
+        link: "https://github.com/gearlabs/ecotrackerim"
     },
     {
         id: 2,
-        name: "MindFlow",
-        description: "Plataforma de meditação e mindfulness guiada, com exercícios personalizados para redução de estresse e ansiedade.",
-        image: "https://picsum.photos/seed/mindflow/400/300.jpg",
+        name: "BaristaPro",
+        description: "Sistema de recomendação de receitas de café baseado em preferências do usuário e ingredientes disponíveis.",
+        image: "img/baristapro-capa.jpg",
         link: "https://github.com/gearlabs/mindflow"
     },
     {
