@@ -5,14 +5,14 @@ const prototypes = [
         name: "MyHeart",
         description: "Simulador cardiácico, com visualizações gráficas e ajustes personalizados.",
         image: "img/myheart-capa.jpg",
-        link: "https://github.com/gearlabs/ecotrackerim"
+        link: "https://dealegear.github.io/MyHeart/"
     },
     {
         id: 2,
         name: "BaristaPro",
         description: "Gestão eficiente de cafeterias com foco em viabilidade e performance",
         image: "img/baristapro-capa.jpg",
-        link: "https://github.com/gearlabs/mindflow"
+        link: "https://dealegear.github.io/BaristaPRO/"
     },
     {
         id: 3,
