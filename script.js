@@ -10,15 +10,15 @@ const prototypes = [
     {
         id: 2,
         name: "BaristaPro",
-        description: "Sistema de recomendação de receitas de café baseado em preferências do usuário e ingredientes disponíveis.",
+        description: "Gestão eficiente de cafeterias com foco em viabilidade e performance",
         image: "img/baristapro-capa.jpg",
         link: "https://github.com/gearlabs/mindflow"
     },
     {
         id: 3,
-        name: "CodeLearn",
-        description: "Sistema interativo de aprendizado de programação com projetos práticos e feedback em tempo real.",
-        image: "https://picsum.photos/seed/codelearn/400/300.jpg",
+        name: "Synapse",
+        description: "Conexão interativa de ideias para colaboração criativa e descoberta coletiva",
+        image: "img/synapse-capa.jpg",
         link: "https://github.com/gearlabs/codelearn"
     },
     {
