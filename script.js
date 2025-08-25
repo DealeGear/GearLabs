@@ -40,7 +40,7 @@ const prototypes = [
         name: "Dyris",
         description: "Acompanhe sua saúde ao longo da vida, prevena riscos e personalizse cuidados",
         image: "img/dyris-capa.jpg",
-        link: "https://github.com/gearlabs/taskmaster"
+        link: "https://dealegear.github.io/Dyris/"
     },
     {
         id: 7,
