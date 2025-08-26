@@ -19,7 +19,7 @@ const prototypes = [
         name: "Synapse",
         description: "Conexão interativa de ideias para colaboração criativa e descoberta coletiva",
         image: "img/synapse-capa.jpg",
-        link: "https://dealegear.github.io/Synapse/"
+        link: "https://github.com/DealeGear/GearLabs/synapse/index.html"
     },
     {
         id: 4,
